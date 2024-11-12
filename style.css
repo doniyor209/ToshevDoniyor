@@ -1,0 +1,63 @@
+.a{
+    background-color: darkslateblue;
+    text-align: center;
+    border: 2px solid red;
+    color: cornflowerblue;
+    border-radius: 25px;
+}
+.b{
+    color: red;
+}
+.c{
+    background-color: yellow;
+    color: darkolivegreen;
+    text-align: center;
+}
+.s{
+    color: darkolivegreen;
+}
+.q{
+    width: 1000px;
+    height: 100px;
+}
+.p{
+    background-color: darkslategray;
+    text-align: center;
+    width: 300px;
+    color: white;
+    height: 75px;
+    font-size: 25px;
+}
+table,tr,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 700px;
+    height: 35px
+    px;
+}
+.boy{
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    width: 300px;
+
+}
+.red{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 300px;
+}
+.black{
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 900px;
+}
+.qwerty{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 900px;
+}
